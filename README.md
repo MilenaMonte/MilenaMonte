@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Milena Monte  
+- 👋 Hi
 - 🎓 Computer Engineering student  
 - 👀 I’m interested in IoT, AI, Embedded Systems, and Game Development  
 - 🌱 I’m currently learning C, C++, and working on Arduino projects  
