@@ -1,5 +1,5 @@
 - 👋 Hi
 - 🎓 Computer Engineering student  
-- 👀 I’m interested in IoT, AI, Embedded Systems, and Game Development  
+- 👀 I’m interested in IoT, AI, Embedded Systems, and Automation. 
 - 🌱 I’m currently learning C, C++, and working on Arduino projects  
 - 📫 How to reach me: eng.milenamonte@gmail.com or https://www.linkedin.com/in/milena-monte/
